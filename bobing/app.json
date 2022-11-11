@@ -1,0 +1,23 @@
+{
+  "pages":[
+    "pages/game/game",
+    "pages/rotate/rotate",
+    "pages/rules/rules",
+    "pages/tw-peo/tw-peo",
+    "pages/tri-pe/tri-peo",
+    "pages/single/single",
+    "pages/mo-peo/mo-peo",
+    "pages/room/room"
+  ],
+  "requiredBackgroundModes": ["audio", "location"],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "博饼小程序",
+    "navigationBarTextStyle":"black"
+    
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+  
+}

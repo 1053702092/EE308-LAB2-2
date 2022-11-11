@@ -1,0 +1,91 @@
+/* pages/tw-peo/tw-peo.wxss */
+.img {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.bgtxt
+{
+  color: rgb(241, 162, 16);
+}
+.endtxt
+{
+  color: rgb(241, 162, 16);
+}
+.retxt
+{
+ color: rgb(241, 162, 16);
+}
+.begin{
+  background-color: rgb(236, 238, 133);
+ width: 37vw!important;
+ transform: translateY(65vh);
+ 
+}
+.end{
+ background-color: rgb(236, 238, 133);
+ width: 37vw!important;
+ transform: translateY(65vh);
+ left: 20vw;
+bottom: 6.25vh;
+}
+
+.button-hover
+{
+  background-color: yellow;
+}
+.reward{
+  background-color: yellow;
+}
+.player1{
+  transform: translate(15vw,25vh);
+  width: 30vw;
+  height: 5vh;
+  background-color: red;
+  
+}
+.player2{
+ transform: translate(50vw,20vh);
+ width: 30vw;
+ height: 5vh;
+ background-color: red;
+ 
+}
+.dice0{
+  position: absolute;
+  transform: translate(15vw,0vh);
+}
+.dice1{
+  position:relative;
+  width: 30%;
+  margin-left: 3%;
+}
+.dice2{
+ position:relative;
+ width: 30%;
+ margin-left: 3%;
+}
+.dice3{
+ position:relative;
+ width: 30%;
+ margin-left: 3%;
+}
+.dice4{
+ position:relative;
+ width: 30%;
+ margin-left: 3%;
+ margin-top: 5%;
+}
+.dice5{
+ position:relative;
+ width: 30%;
+ margin-left: 3%;
+ margin-top: 5%;
+}
+.dice6{
+ position:relative;
+ width: 30%;
+ margin-left: 3%;
+ margin-top: 5%;
+}

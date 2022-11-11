@@ -1,0 +1,8 @@
+<!--pages/rotate/rotate.wxml-->
+<view class="box6">
+  <image src="/pages/image/ratote.gif" mode="heightFix" ></image>
+</view>
+
+<button bindtap="onclick" class="begin">
+  <view class="endtxt">停</view>
+</button>

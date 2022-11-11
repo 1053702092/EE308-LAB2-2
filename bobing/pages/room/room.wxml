@@ -1,0 +1,13 @@
+<!--pages/room/room.wxml-->
+<view class="box7">
+  <image src="/pages/image/room.png" class="img"></image>
+</view>
+
+<button bindtap="onclick3" class="begin3">2人
+</button>
+<button bindtap="onclick" class="begin"  >
+<view class="bgtxt">3人</view>
+</button>
+<button bindtap="onclick2" class="begin2">4人
+</button>
+

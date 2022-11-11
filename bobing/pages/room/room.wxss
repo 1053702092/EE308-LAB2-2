@@ -1,0 +1,28 @@
+/* pages/room/room.wxss */
+.img {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.begin{
+  background-color: rgb(56, 88, 192);
+  transform: translateY(180px);
+ position: relative;
+  width: 42vw!important;
+  
+  border-radius: 5%;
+  justify-content:center;
+  align-items: center;
+}
+.begin2{
+  background-color: rgb(56, 88, 192);
+  transform: translate(0px,230px);
+  width: 42vw!important;
+}
+
+.begin3{
+  background-color: rgb(56, 88, 192);
+  transform: translate(0px,130px);
+  width: 42vw!important;
+}

@@ -1,0 +1,33 @@
+/* pages/game/game.wxss */
+.img {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+ 
+.begin{
+  background-color: rgb(56, 88, 192);
+  transform: translateY(180px);
+ position: relative;
+  width: 37vw!important;
+  
+  border-radius: 5%;
+  justify-content:center;
+  align-items: center;
+}
+.begin2{
+  background-color: rgb(56, 88, 192);
+  transform: translate(0px,210px);
+  width: 37vw!important;
+}
+.begin3{
+  background-color: rgb(56, 88, 192);
+  transform: translate(0px,240px);
+  width: 37vw!important;
+}
+.bgm{
+  background-color: rgb(56, 88, 192);
+  transform: translateY(280px);
+  width: 37vw!important;
+}
+

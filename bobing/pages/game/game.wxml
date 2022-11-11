@@ -1,0 +1,17 @@
+<!--pages/game/game.wxml-->
+<view class="box4">
+  <image src="/pages/image/start.jpg" class="img"></image>
+</view>
+
+<button bindtap="onclick" class="begin"  >
+<view class="bgtxt">单人游戏</view>
+</button>
+<button bindtap="onclick2" class="begin2">
+多人游戏
+</button>
+<button bindtap="onclick3" class="begin3">
+游戏规则
+</button>
+<button class="bgm" bindtap="bgm" > 背景音乐:{{bgmswitch}}
+  </button>
+

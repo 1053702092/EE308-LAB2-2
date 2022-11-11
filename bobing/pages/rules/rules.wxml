@@ -1,0 +1,4 @@
+<!--pages/rules/rules.wxml-->
+<view class="box4">
+  <image src="/pages/image/rule.jpg" class="image"></image>
+</view>
